@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning Distributed Systems and netstack
+- 🌱 I’m currently learning cpp and Distributed Systems.
+- 🤔 I’m looking for help with cpp.
 <!--
 **impact-eintr/impact-eintr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
