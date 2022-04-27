@@ -7,3 +7,5 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=impact-eintr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=impact-eintr&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/impact-eintr/impact-eintr/output/github-contribution-grid-snake.svg)
